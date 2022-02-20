@@ -157,3 +157,45 @@ h4{
 	text-align: left;
 	letter-spacing:0px;
 }
+.map{
+	display: inline-block;
+	vertical-align: middle;
+	width: 1366px;
+	height: 570px;
+	background-color: #E6E6E6;
+	border: none;
+	position: relative;
+	margin-bottom: 40px;
+}
+.gmap{
+	position: absolute;
+	display: inline-block;
+	vertical-align: top;
+	width: 848.5px;
+	height: 464.5px;
+	margin-top: 45px;
+	overflow: hidden;
+	background: none;
+}
+.span1{
+	color: #3D58A6;
+	font-size: 20px;
+	font-style: BPGNinoMtavruli-Bold;
+	}
+.contact{
+	display: inline-block;
+	vertical-align: top;
+	height: 88px;
+	width: 261px;
+	font-size: 16px;
+	font-style: BPGIngiriArial;
+	color: #000000;
+	border-style: hidden;
+	margin: 60px 64px 407px 90px;
+	line-height: 24px;
+	}
+.red{
+	color: #EE4036;
+	font-size: 22px;
+	font-style: BPGNinoMtavruli-Bold;
+}
