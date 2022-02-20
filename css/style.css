@@ -16,7 +16,7 @@ nav{
 	vertical-align:top;
 	width: 100.18px;
 	height: 30.57px;
-	margin: 30px 30px 49.81px 72px;
+	margin: 30px 30px 49.81px 35px;
 }
 .banner{
 	width: 1170px;
@@ -80,14 +80,14 @@ h4{
 	vertical-align: middle;
 	width: 14px;
 	height: 30px;
-	margin: 0px 31px 38.71px 109.71px ;
+	margin: 20px 31px 38.71px 59.71px ;
 }
 .yt{
 	display: inline-block;
 	vertical-align: middle;
 	width:24.81px ;
 	height:30px;
-	margin:0px 1100px 38.71px 29px ;
+	margin:20px 1100px 38.71px 29px ;
 }
 .debilo{
 	display: inline-block;
@@ -95,7 +95,7 @@ h4{
 	width:1px;
 	height:26.67px;
 	background-color: #363E97;
-	margin: 0px 5px 38.71px 0px;
+	margin: 20px 5px 38.71px 0px;
 
 }
 .container1{
@@ -113,4 +113,47 @@ h4{
 	font-size: 30px;
 	font-style:roboto-bold;
 	color: #E6E6E6;
+}
+.b27{
+	width: 56px;
+	height: 56px;
+	background-color: #3D58A6;
+	font-size: 37px;
+	font-style: BPGNinoMtavruli;
+	text-align: center;
+	color: #FFFFFF;
+	margin-left: 34.05px;
+
+}
+.may{
+	font-size: 22px;
+	font-style: BPGNinoMtavruli;
+	color: #3D58A6;
+	margin:8px 0px 32px 34.05px;
+}
+.lorem {
+	font-size:20px;
+	font-style: BPGNinoMtavruli;
+	color:#000000;
+	margin-left:34.05px;
+	margin-bottom:22px;
+}
+.code{
+	display:inline-block;
+	vertical-align:top;
+	width: 270px;
+	height: 210px;
+	margin-left: 30px;
+	margin-right:38px;
+}
+.div1{
+	display: inline-block;
+	vertical-align:top;
+	font-style: BPGIngiriArial;
+	font-size: 16px;
+	width: 920.02px;
+	height: 360px;
+	color: #000000;
+	text-align: left;
+	letter-spacing:0px;
 }
